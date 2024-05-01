@@ -19,7 +19,7 @@ services:
       PORT: 8420
       MONGODB_URI: mongodb://mongo_db:27017
       TEST_MONGODB_URI: mongodb://mongo_db:27017
-      geminiKey: AIzaSyA-V8AaFMOeYmVoa_ibSikN9X3VVXXJHm8
+      geminiKey: 
       DB_NAME: my_db
       TEST_DB_NAME: jest_test_db
       SECRET: foobar
