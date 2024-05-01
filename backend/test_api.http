@@ -1,0 +1,6 @@
+POST http://localhost:8420/api
+Content-Type: application/json
+
+{
+    "message": "hello, are you working?"
+}
